@@ -34,7 +34,7 @@
                             <div class="row mt-2">
                                 <div class="col-12">
                                     @csrf
-                                    <button type="submit" class="btn btn-primary">Save Link</button>
+                                    <button type="submit" class="btn btn-primary text-white">Save Link</button>
                                 </div>
                             </div>
                         </div>

@@ -6,3 +6,18 @@
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+
+
+.custom-heading {
+    color: blue;
+    font-size: 24px;
+}
+
+.btn-customary{
+    background: #bbd12d;
+}
+
+.btn-customary:hover{
+    background: red;
+}
